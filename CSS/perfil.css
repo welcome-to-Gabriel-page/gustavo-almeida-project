@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@300;500&family=Inter:wght@100;200;300;400;500;600&family=Montserrat:wght@200;300;800&family=Teko:wght@600&display=swap');
+
+* {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Inter', sans-serif;
+    background-color: #F2E5C7;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    color: #f3ede1c8;
+    background-color: #E6D4AE;
+    border-radius: 8px;
+    padding: 10px;
+}
